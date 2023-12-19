@@ -33,6 +33,7 @@ header h1 .seo {
     color: var(--light);
 }
 
+/* Replaced 'div' with 'nav'  */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -99,6 +100,7 @@ main {
     background-color: var(--blue);
 }
 
+/* Consolidated 'benefit-lead', 'benefit-brand', and 'benefit-cost' into 'benefit' class*/
 .benefit {
     margin-bottom: 32px;
     color: var(--white);
@@ -115,7 +117,7 @@ main {
     max-width: 150px;
 }
 
-/* Services */
+/* Services : consolidated 'online-reputation-management' & 'social-media-marketing' into 'services' class */
 .services {
     margin-bottom: 20px;
     padding: 50px;
@@ -134,7 +136,7 @@ main {
     font-size: 36px;
 }
 
-/* Footer */
+/* Footer : replaced '.footer' with 'footer' to use semantic elements */
 footer {
     padding: 30px;
     clear: both;
