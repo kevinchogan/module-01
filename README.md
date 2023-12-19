@@ -12,11 +12,11 @@ N/A
 
 ## Usage
 
-Click on a card to be taken to the web application.  Contact information provided at the bottom of the page.
+Use navigation links on the top right to view marketing services provided by Horiseon.
 
 ## Credits
 
-Card mages generated using Adobe Firefly. 
+N/A
 
 ## License
 
